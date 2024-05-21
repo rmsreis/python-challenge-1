@@ -73,4 +73,4 @@ Total Price: $12.47
 - Customize the menu items and prices as needed by modifying the menu_items dictionary.
 - The system will handle input errors and guide the user accordingly.
 
-__Developed by Roberto dos Reis__
+*Developed by Roberto dos Reis*
