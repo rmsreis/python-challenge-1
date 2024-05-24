@@ -66,13 +66,5 @@ Total Price: $12.47
 
 ```
 
-
-## Notes
-
-- Ensure Python is installed on your system to run the script.
-- Customize the menu items and prices as needed by modifying the menu_items dictionary.
-- The system will handle input errors and guide the user accordingly.
-
-
 ---------------------------------
 *Developed by Roberto dos Reis*
